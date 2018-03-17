@@ -1,13 +1,4 @@
-images = ['https://s2.coinmarketcap.com/static/img/coins/16x16/1.png'
-          ,'https://s2.coinmarketcap.com/static/img/coins/16x16/1027.png',
-          'https://s2.coinmarketcap.com/static/img/coins/16x16/52.png',
-          'https://s2.coinmarketcap.com/static/img/coins/16x16/1831.png',
-          'https://s2.coinmarketcap.com/static/img/coins/16x16/2.png',
-          'https://s2.coinmarketcap.com/static/img/coins/16x16/2010.png',
-          'https://s2.coinmarketcap.com/static/img/coins/16x16/1376.png',
-          'https://s2.coinmarketcap.com/static/img/coins/16x16/512.png',
-          'https://s2.coinmarketcap.com/static/img/coins/16x16/1765.png',
-          'https://s2.coinmarketcap.com/static/img/coins/16x16/328.png']
+images = ['1.png','1027.png','52.png','1831.png','2.png','2010.png','1376.png','512.png','1765.png','328.png'];
 
 function crypto() {
 
