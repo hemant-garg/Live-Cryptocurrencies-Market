@@ -1,0 +1,20 @@
+table{
+  width: 100vw;
+  text-align: center;
+}
+.column{
+  width: 33%;
+
+}
+body{
+  background-color: black;
+  color: #fff;
+  text-align: center;
+}
+table td, table th{
+  border:1px solid #444;
+}
+table td{
+  border: none;
+  border-bottom: 1px solid #444;
+}
