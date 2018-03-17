@@ -17,9 +17,10 @@ body{
 }
 table td, table th{
   border:1px solid #444;
+  vertical-align: middle!important;
 }
 table td{
   border: none;
-  vertical-align: middle!important;
+
   border-bottom: 1px solid #444;
 }
