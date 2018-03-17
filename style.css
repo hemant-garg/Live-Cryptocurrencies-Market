@@ -6,6 +6,9 @@ table{
   width: 33%;
 
 }
+h1{
+  margin: 30px 0 30px 0;
+}
 body{
   background-color: black;
   color: #fff;
@@ -14,7 +17,7 @@ body{
 table td, table th{
   border:1px solid #444;
 }
-table td{
+table td,table th{
   border: none;
   border-bottom: 1px solid #444;
 }
